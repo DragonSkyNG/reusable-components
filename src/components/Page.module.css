@@ -1,0 +1,6 @@
+.page {
+  display: flex;
+  align-content: space-around;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
